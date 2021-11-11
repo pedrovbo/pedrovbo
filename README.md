@@ -1,7 +1,7 @@
-## Olá! Eu sou o Pedro Oliveira
+## Hi! I'm Pedro Oliveira
 
-- 📚 Cursando Análise e Desenvolvimento de Sistemas (3/5)
-- 🌱 Estudando Java 
+- 📚 Software Analysis and Development (3/5)
+- 🌱 Studying Java 
 
  ## 
 
