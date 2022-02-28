@@ -1,6 +1,6 @@
 ## Hi! I'm Pedro Oliveira
 
-- 📚 Software Analyst and Developer (3/5)
+- 📚 Software Analyst and Developer (4/5)
 - 🌱 Studying Java 
 
  ## 
