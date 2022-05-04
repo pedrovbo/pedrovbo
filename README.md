@@ -5,13 +5,14 @@
  ## 
 
 <div> 
-  
+  <a href="#">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovbo&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovbo&hide=html,ruby&layout=compact&langs_count=16&theme=dark"/>
- 
+ </a>
 </div>
   
 <div style="display: inline_block"><br>
+ <a href="#">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg"/>   
@@ -22,6 +23,7 @@
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Pedro-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>  
+ </a>
 </div>  
 
   ##
