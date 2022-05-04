@@ -1,14 +1,19 @@
-## Hi! I'm Pedro Oliveira
+<div>
+ <a href="https://beacons.ai/pedrovbo">
+  <h2> Hi! I'm Pedro Oliveira </h2>
+ </a>
+</div>
 
 - 📚 Software Analyst and Developer (4/5)
 - 🌱 Studying Java 
 
  ## 
 
-<div>
- <a href="https://beacons.ai/pedrovbo"></a>
+<div> 
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovbo&show_icons=true&theme=dark&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovbo&hide=html,ruby&layout=compact&langs_count=16&theme=dark"/>
+ 
 </div>
   
 <div style="display: inline_block"><br>
@@ -31,5 +36,6 @@
   <a href="https://instagram.com/pedro.vbo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 	
  <a href="https://discord.gg/Hmf8Cc9f" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:pedrovicboliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
      
 </div>
