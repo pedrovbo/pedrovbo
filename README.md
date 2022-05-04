@@ -1,9 +1,4 @@
-<div>
- <a href="https://beacons.ai/pedrovbo">
-  <h2> Hi! I'm Pedro Oliveira </h2>
- </a>
-</div>
-
+## Hi! I'm [Pedro Oliveira](https://beacons.ai/pedrovbo) 
 - 📚 Software Analyst and Developer (4/5)
 - 🌱 Studying Java 
 
