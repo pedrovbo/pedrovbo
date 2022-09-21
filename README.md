@@ -1,6 +1,6 @@
 ## Hi! I'm [Pedro Oliveira](https://beacons.ai/pedrovbo) 
 - 📚 Software Analyst and Developer (4/5)
-- 🌱 Studying Java 
+- Java | Spring | JUnit | Angular
 
  ## 
 
